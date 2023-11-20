@@ -47,9 +47,12 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-## OUTPUT
+## OUTPUT:
+
+
 ### Name: Haarish.V
 ### Register Number: 23013963
+
 ![output](/pic1.png)
 ![output](/pic2.png)
 ![output](/pic3.png)

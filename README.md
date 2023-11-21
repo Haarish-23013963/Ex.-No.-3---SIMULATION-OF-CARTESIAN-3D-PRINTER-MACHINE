@@ -1,5 +1,5 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 21/11/2023
+### DATE: 20/11/2023
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -50,8 +50,8 @@
 ## OUTPUT:
 
 
-### Name: Sai Sanjiv R
-### Register Number: 23012524
+### Name: Haarish V
+### Register Number: 23013963
 
 ![output](/pic1.png)
 ![output](/pic2.png)
